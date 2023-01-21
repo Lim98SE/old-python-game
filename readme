@@ -1,13 +1,1 @@
-This is the Python 1.2 compiled with Borland C++ 3.1.
-I also included the LIB files.
 
-You must have the Python sources to make any use of those files.
-
-I will probably release the sources of the CONFIG.C, CONFIG.H and the 
-makefiles, but since I only needed it working, it's quite ugly.
-You're welcome to compile it yourself - you need the sources, and DOSBUILD.
-To make Python compile with you're favorite compiler, you'll have to change
-CONFIG.H.
-
-   Sunny
-   sunny@math.tau.ac.il
